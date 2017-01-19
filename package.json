@@ -4,5 +4,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/udacity/responsive-images.git"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-pagespeed": "^2.0.1",
+    "grunt-responsive-images": "^1.10.1"
   }
 }
